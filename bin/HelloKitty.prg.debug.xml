@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="11" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="17" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="18" pc="268435522" symbol="onLayout"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="30" pc="268435565" symbol="onUpdate"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="31" pc="268435582" symbol="onUpdate"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="34" pc="268435656" symbol="onUpdate"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="35" pc="268435692" symbol="onUpdate"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="37" pc="268435706" symbol="onUpdate"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyView.mc" lineNum="38" pc="268435742" symbol="onUpdate"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyApp.mc" lineNum="6" pc="268435798" symbol="initialize"/>
+<entry filename="C:\\Users\\wangl\\connectiq\\HelloKitty\\source\\HelloKittyApp.mc" lineNum="19" pc="268435825" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="21" pc="268435865" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268435889" symbol="initialize"/>
+<entry filename="Rez" lineNum="26" pc="268435935" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268435942" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268435949" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268435962" symbol="draw"/>
+<entry filename="Rez" lineNum="30" pc="268435975" symbol="draw"/>
+<entry filename="Rez" lineNum="34" pc="268436000" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="35" pc="268436036" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="36" pc="268436080" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="38" pc="268436116" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="39" pc="268436152" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="41" pc="268436203" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="42" pc="268436239" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="44" pc="268436290" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="58" pc="268436341" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="59" pc="268436355" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="60" pc="268436458" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="61" pc="268436472" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="62" pc="268436575" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="72" pc="268436605" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="73" pc="268436619" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="74" pc="268436716" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="75" pc="268436731" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="76" pc="268436783" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="77" pc="268436829" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="78" pc="268436854" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="79" pc="268436881" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="81" pc="268436897" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="12" symbol="mouth"/>
+<entry field="true" id="19" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8" object="true" symbol="HelloKittyView"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="15" symbol="image_mouth"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="9" object="true" symbol="HelloKittyApp"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="17" symbol="id_font_c64"/>
+<entry id="18" method="true" symbol="MainLayout"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="14" object="true" symbol="Smiley"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435786" name="timeString" stackId="3" startPc="268435565"/>
+<entry endPc="268435786" name="clockTime" stackId="2" startPc="268435565"/>
+<entry endPc="268435786" name="mySmiley" stackId="4" startPc="268435565"/>
+<entry endPc="268435997" name="pWidth" stackId="4" startPc="268435935"/>
+<entry endPc="268435997" name="pY" stackId="3" startPc="268435935"/>
+<entry endPc="268435997" name="pX" stackId="2" startPc="268435935"/>
+<entry endPc="268435997" name="pHeight" stackId="5" startPc="268435935"/>
+<entry endPc="268436602" name="rez_cmp_local_label_291MR5AG14_font" stackId="4" startPc="268436341"/>
+<entry endPc="268436602" name="rez_cmp_local_label_291MR5AG14" stackId="5" startPc="268436341"/>
+<entry endPc="268436602" name="rez_cmp_local_label_G1H1FO31OM_font" stackId="2" startPc="268436341"/>
+<entry endPc="268436602" name="rez_cmp_local_label_G1H1FO31OM" stackId="3" startPc="268436341"/>
+<entry endPc="268436924" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268436605"/>
+<entry endPc="268436924" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268436605"/>
+<entry endPc="268436924" name="rez_cmp_local_custom_drawable_MoveBar" stackId="5" startPc="268436605"/>
+<entry endPc="268436924" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268436605"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="HelloKittyView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="HelloKittyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="HelloKittyView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="HelloKittyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="HelloKittyView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="HelloKittyView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="HelloKittyView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="HelloKittyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="HelloKittyApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="HelloKittyApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="HelloKittyApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Smiley">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Smiley">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="Smiley">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

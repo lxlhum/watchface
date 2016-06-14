@@ -1,0 +1,17 @@
+<resources>
+    <layout id="MainLayout">        
+        <label text="Page Heading" x="10" y="5" font="Gfx.FONT_LARGE" color="Gfx.COLOR_BLACK" />
+        <label text="Your information goes here." x="10" y="25" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_DK_GRAY" />
+    </layout>
+    
+    <drawable-list id="Smiley" background="Gfx.COLOR_WHITE">
+        <shape type="circle" x="10" y="10" radius="5" color="Gfx.COLOR_BLACK" />
+        <shape type="circle" x="30" y="10" radius="5" color="Gfx.COLOR_BLACK" />
+        <bitmap id="mouth" x="50" y="40" filename="drawables/hk.png" />
+    </drawable-list>
+    
+    <fonts>
+    	<font id="id_font_c64" filename="fonts/commodore.fnt" filter="READY0123456789:." />
+    </fonts>
+    
+</resources>
